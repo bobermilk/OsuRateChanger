@@ -60,12 +60,6 @@
     <Compile Include="AudioConvert\Codec.cs" />
     <Compile Include="AudioStretch\AudioStretch.cs" />
     <Compile Include="AudioStretch\EndianHelper.cs" />
-    <Compile Include="frmMain.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="frmMain.Designer.cs">
-      <DependentUpon>frmMain.cs</DependentUpon>
-    </Compile>
     <Compile Include="OsuFileConverter.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -76,9 +70,6 @@
     </Compile>
     <Compile Include="AudioStretch\WavFile.cs" />
     <Compile Include="AudioStretch\WavOutFile.cs" />
-    <EmbeddedResource Include="frmMain.resx">
-      <DependentUpon>frmMain.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>

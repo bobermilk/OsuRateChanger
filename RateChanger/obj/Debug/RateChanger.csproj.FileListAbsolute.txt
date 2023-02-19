@@ -1,33 +1,17 @@
-c:\users\torbe\onedrive\documents\visual studio 2017\Projects\RateChanger\RateChanger\bin\Debug\RateChanger.exe.config
-c:\users\torbe\onedrive\documents\visual studio 2017\Projects\RateChanger\RateChanger\bin\Debug\RateChanger.exe
-c:\users\torbe\onedrive\documents\visual studio 2017\Projects\RateChanger\RateChanger\bin\Debug\RateChanger.pdb
-c:\users\torbe\onedrive\documents\visual studio 2017\Projects\RateChanger\RateChanger\obj\Debug\RateChanger.csprojResolveAssemblyReference.cache
-c:\users\torbe\onedrive\documents\visual studio 2017\Projects\RateChanger\RateChanger\obj\Debug\RateChanger.Properties.Resources.resources
-c:\users\torbe\onedrive\documents\visual studio 2017\Projects\RateChanger\RateChanger\obj\Debug\RateChanger.csproj.GenerateResource.Cache
-c:\users\torbe\onedrive\documents\visual studio 2017\Projects\RateChanger\RateChanger\obj\Debug\RateChanger.exe
-c:\users\torbe\onedrive\documents\visual studio 2017\Projects\RateChanger\RateChanger\obj\Debug\RateChanger.pdb
-C:\Users\torbe\onedrive\documents\visual studio 2017\Projects\RateChanger\RateChanger\bin\Debug\NAudio.dll
-C:\Users\torbe\onedrive\documents\visual studio 2017\Projects\RateChanger\RateChanger\bin\Debug\SoundTouchNet.dll
-C:\Users\torbe\onedrive\documents\visual studio 2017\Projects\RateChanger\RateChanger\bin\Debug\NAudio.xml
-C:\Users\torbe\onedrive\documents\visual studio 2017\Projects\RateChanger\RateChanger\obj\Debug\RateChanger.FrmMain.resources
-C:\Users\torbe\OneDrive\Documents\Visual Studio 2017\Projects\RateChanger\RateChanger\bin\Debug\SoundTouch.Net.dll
-C:\Users\torbe\OneDrive\Documents\Visual Studio 2017\Projects\RateChanger\RateChanger\bin\Debug\SoundTouch.Net.pdb
-C:\Users\torbe\OneDrive\Documents\Visual Studio 2017\Projects\RateChanger\RateChanger\bin\Debug\libmp3lame.32.dll
-C:\Users\torbe\OneDrive\Documents\Visual Studio 2017\Projects\RateChanger\RateChanger\bin\Debug\libmp3lame.64.dll
-C:\Users\torbe\OneDrive\Documents\Visual Studio 2017\Projects\RateChanger\RateChanger\bin\Debug\NAudio.Lame.dll
-C:\Users\torbe\Source\Repos\OsuRateChanger\RateChanger\obj\Debug\RateChanger.csprojResolveAssemblyReference.cache
-C:\Users\torbe\Source\Repos\OsuRateChanger\RateChanger\obj\Debug\RateChanger.FrmMain.resources
-C:\Users\torbe\Source\Repos\OsuRateChanger\RateChanger\obj\Debug\RateChanger.Properties.Resources.resources
-C:\Users\torbe\Source\Repos\OsuRateChanger\RateChanger\obj\Debug\RateChanger.csproj.GenerateResource.Cache
-C:\Users\torbe\Source\Repos\OsuRateChanger\RateChanger\obj\Debug\RateChanger.csproj.CoreCompileInputs.cache
-C:\Users\torbe\Source\Repos\OsuRateChanger\RateChanger\obj\Debug\RateChanger.exe
-C:\Users\torbe\Source\Repos\OsuRateChanger\RateChanger\obj\Debug\RateChanger.pdb
-C:\Users\torbe\Source\Repos\OsuRateChanger\RateChanger\bin\Debug\libmp3lame.32.dll
-C:\Users\torbe\Source\Repos\OsuRateChanger\RateChanger\bin\Debug\libmp3lame.64.dll
-C:\Users\torbe\Source\Repos\OsuRateChanger\RateChanger\bin\Debug\RateChanger.exe.config
-C:\Users\torbe\Source\Repos\OsuRateChanger\RateChanger\bin\Debug\RateChanger.exe
-C:\Users\torbe\Source\Repos\OsuRateChanger\RateChanger\bin\Debug\RateChanger.pdb
-C:\Users\torbe\Source\Repos\OsuRateChanger\RateChanger\bin\Debug\NAudio.dll
-C:\Users\torbe\Source\Repos\OsuRateChanger\RateChanger\bin\Debug\NAudio.Lame.dll
-C:\Users\torbe\Source\Repos\OsuRateChanger\RateChanger\bin\Debug\SoundTouch.Net.dll
-C:\Users\torbe\Source\Repos\OsuRateChanger\RateChanger\bin\Debug\NAudio.xml
+C:\Users\morga\Desktop\OsuRateChanger\RateChanger\bin\Debug\libmp3lame.32.dll
+C:\Users\morga\Desktop\OsuRateChanger\RateChanger\bin\Debug\libmp3lame.64.dll
+C:\Users\morga\Desktop\OsuRateChanger\RateChanger\bin\Debug\RateChanger.exe.config
+C:\Users\morga\Desktop\OsuRateChanger\RateChanger\bin\Debug\RateChanger.exe
+C:\Users\morga\Desktop\OsuRateChanger\RateChanger\bin\Debug\RateChanger.pdb
+C:\Users\morga\Desktop\OsuRateChanger\RateChanger\bin\Debug\NAudio.dll
+C:\Users\morga\Desktop\OsuRateChanger\RateChanger\bin\Debug\NAudio.Lame.dll
+C:\Users\morga\Desktop\OsuRateChanger\RateChanger\bin\Debug\SoundTouch.Net.dll
+C:\Users\morga\Desktop\OsuRateChanger\RateChanger\bin\Debug\NAudio.xml
+C:\Users\morga\Desktop\OsuRateChanger\RateChanger\obj\Debug\RateChanger.csproj.AssemblyReference.cache
+C:\Users\morga\Desktop\OsuRateChanger\RateChanger\obj\Debug\RateChanger.csproj.SuggestedBindingRedirects.cache
+C:\Users\morga\Desktop\OsuRateChanger\RateChanger\obj\Debug\RateChanger.Properties.Resources.resources
+C:\Users\morga\Desktop\OsuRateChanger\RateChanger\obj\Debug\RateChanger.csproj.GenerateResource.cache
+C:\Users\morga\Desktop\OsuRateChanger\RateChanger\obj\Debug\RateChanger.csproj.CoreCompileInputs.cache
+C:\Users\morga\Desktop\OsuRateChanger\RateChanger\obj\Debug\RateChanger.csproj.CopyComplete
+C:\Users\morga\Desktop\OsuRateChanger\RateChanger\obj\Debug\RateChanger.exe
+C:\Users\morga\Desktop\OsuRateChanger\RateChanger\obj\Debug\RateChanger.pdb
